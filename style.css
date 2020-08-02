@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    padding: 30px;
+}
+
+#Q1{
+    text-align: center;
+    background-color: pink;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#Q2{
+    text-align: center;
+    background-color: paleturquoise;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#Q3{
+    text-align: center;
+    background-color: palegoldenrod;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#Q4{
+    text-align: center;
+    background-color: palegreen;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
